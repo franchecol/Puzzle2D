@@ -1,0 +1,9 @@
+.\main.o: main.c
+.\main.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\main.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\main.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\main.o: tm4c123gh6pm.h
+.\main.o: Nokia5110.h
+.\main.o: BibliotecaUART.h
+.\main.o: BibliotecaTIVA.h
+.\main.o: bitmapPhotos.h
